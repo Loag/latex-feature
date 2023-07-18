@@ -1,0 +1,12 @@
+{
+  "id": "latex",
+  "version": "0.0.1",
+  "name": "latex",
+  "documentationURL": "https://github.com/Loag/latex-feature",
+  "description": "Installs latex with apt",
+  "options": {},
+  "mounts": [],
+  "installsAfter": [
+      "ghcr.io/devcontainers/features/common-utils"
+  ]
+}
